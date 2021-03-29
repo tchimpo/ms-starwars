@@ -1,4 +1,5 @@
 feature a
+feature b
 # ms-starwars
 
 ![starwars](/assets/starwars.png)
